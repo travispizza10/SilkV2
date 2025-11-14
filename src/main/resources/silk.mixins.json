@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "package": "cc.silk.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ChatScreenMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "EntityMixin",
+    "ExampleMixin",
+    "GameRendererMixin",
+    "HandledScreenMixin",
+    "InGameHudMixin",
+    "KeyboardMixin",
+    "LivingEntityMixin",
+    "MinecraftClientAccessor",
+    "MinecraftClientMixin",
+    "MixinClientConnection",
+    "MouseHandlerAccessor",
+    "MouseMixin",
+    "PlayerEntityMixin",
+    "ScreenMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "HandledScreenAccessor",
+    "LightmapTextureManagerMixin",
+    "WorldRendererAccessor"
+  ]
+}
