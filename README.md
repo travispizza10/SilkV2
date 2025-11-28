@@ -1,5 +1,7 @@
-<img width="300" height="300" alt="123" src="https://github.com/user-attachments/assets/0e51b144-7693-4ba8-af30-3ce3e26de646" />
-# SilkV2
+
+<img width="70" height="73" alt="Screenshot 2025-11-28 171748" src="https://github.com/user-attachments/assets/77fc5c0d-5dc1-4c9d-bccf-5689893c0e1a" />
+#SilkV2
+
 
 Private Minecraft utility client — personal/educational use only.
 
